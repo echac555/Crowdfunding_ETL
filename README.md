@@ -10,12 +10,12 @@ Table of Contents:
 
 Resources: Contains Excel Spreadsheets used in the code. Location for where the csv files were exported to.
 
-ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for "category.csv", "subcategory.csv", campaign.csv +++++++++++
+ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for "category.csv", "subcategory.csv", campaign.csv **TO BE FINISHED**
 
 Procedure: 
 Import Dependancies
 Read the excel data converting to a DataFrame
-
+**TO BE FINISHED**
 
 References: 
 
@@ -32,3 +32,5 @@ Formatting and structure were referenced from in class work modules.
 
 Used to assist in what to include in the README.md file: 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+Acknowledgements: Edward Chac and Graham Marsh for collaborating and working through the coding together. Having different perspectives and challenging one another to improve the format of the code and results.
