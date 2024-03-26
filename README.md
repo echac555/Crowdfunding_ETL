@@ -20,6 +20,8 @@ ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for campaign.csv, category.c
 
 crowdfunding_db_schema.sql: Schema used for crowdfunding database
 
+crowdfunding_db_query.sql: Query used to select everything from tables in the schema
+
 QuickDBD-export.png: Visualization of the schema used for crowdfunding database
 
 References: 
