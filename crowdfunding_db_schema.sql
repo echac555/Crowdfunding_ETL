@@ -27,7 +27,7 @@ CREATE TABLE subcategory (
 CREATE TABLE campaigns (
     cf_id INT NOT NULL PRIMARY KEY,
     contact_id INT,
-    campaign_name VARCHAR(100),
+    company_name VARCHAR(100),
     description VARCHAR(255),
     goal DECIMAL(10, 2),
     pledged DECIMAL(10, 2),
