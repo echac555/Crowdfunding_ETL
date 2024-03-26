@@ -39,8 +39,8 @@ CREATE TABLE campaigns (
     end_date DATE,
     category_id VARCHAR(3),
     subcategory_id VARCHAR(3),
-    FOREIGN KEY (contact_id) REFERENCES contacts(contact_id)
-    FOREIGN KEY (category_id) REFERENCES category(category_id)
+    FOREIGN KEY (contact_id) REFERENCES contacts(contact_id),
+    FOREIGN KEY (category_id) REFERENCES category(category_id),
     FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
   );
 
