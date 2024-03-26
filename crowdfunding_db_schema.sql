@@ -13,13 +13,13 @@ CREATE TABLE contacts (
 
 -- category table
 CREATE TABLE category (
-    category_id VARCHAR(3) NOT NULL PRIMARY KEY,
+    category_id VARCHAR(100) NOT NULL PRIMARY KEY,
     category VARCHAR(100)
 );
 
 -- subcategory table
 CREATE TABLE subcategory (
-    subcategory_id VARCHAR(3) NOT NULL PRIMARY KEY,
+    subcategory_id VARCHAR(100) NOT NULL PRIMARY KEY,
     subcategory VARCHAR(100)
 );
 
@@ -37,8 +37,8 @@ CREATE TABLE campaigns (
     currency VARCHAR(10),
     launch_date DATE,
     end_date DATE,
-    category_id VARCHAR(3),
-    subcategory_id VARCHAR(3),
+    category_id VARCHAR(100),
+    subcategory_id VARCHAR(100),
     FOREIGN KEY (contact_id) REFERENCES contacts(contact_id),
     FOREIGN KEY (category_id) REFERENCES category(category_id),
     FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
