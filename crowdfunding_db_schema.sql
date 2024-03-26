@@ -1,6 +1,6 @@
 -- Description: This file contains the schema for the crowdfunding database
 
--- Create the database
+--Create the database
 --CREATE DATABASE crowdfunding;
 
 -- contacts table

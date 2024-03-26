@@ -8,14 +8,10 @@ Although you and your partner will divide the work, it’s essential to collabor
 
 Table of Contents:
 
-Resources: Contains Excel Spreadsheets used in the code. Location for where the csv files were exported to.
+Resources: Contains Excel Spreadsheets used in the code. The Excel files are as follows: campiagn.xlsx, contacts.xlsx. 
+Location for where the csv files were exported to. The CSV files are as follows: campaign.csv, category.csv, contacts.csv and subcategory.csv
 
-ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for "category.csv", "subcategory.csv", campaign.csv **TO BE FINISHED**
-
-Procedure: 
-Import Dependancies
-Read the excel data converting to a DataFrame
-**TO BE FINISHED**
+ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for campaign.csv, category.csv, contacts.csv and subcategory.csv
 
 References: 
 
@@ -28,7 +24,7 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 Python Basics to assist with NumPy arrays:
 https://images.datacamp.com/image/upload/v1694526244/Marketing/Blog/Python_Basics_Cheat_Sheet-updated.pdf
 
-Formatting and structure were referenced from in class work modules.
+Formatting and structure were referenced from in class work modules: 13-project-2-ETL.
 
 Used to assist in what to include in the README.md file: 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
