@@ -8,10 +8,19 @@ Although you and your partner will divide the work, it’s essential to collabor
 
 Table of Contents:
 
-Resources: Contains Excel Spreadsheets used in the code. The Excel files are as follows: campiagn.xlsx, contacts.xlsx. 
-Location for where the csv files were exported to. The CSV files are as follows: campaign.csv, category.csv, contacts.csv and subcategory.csv
+Resources:
+campiagn.xlsx: provided excel file used for coding
+contacts.xlsx: provided excel file used for coding
+campaign.csv: exported csv file contain data from campaign_cleaned dataframe
+category.csv: exported csv file contain data from category_df
+contacts.csv: exported csv file contain data from contact_info
+subcategory.csv: exported csv file contain data from subcategory_df
 
 ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for campaign.csv, category.csv, contacts.csv and subcategory.csv
+
+crowdfunding_db_schema.sql: Schema used for crowdfunding database
+
+QuickDBD-export.png: Visualization of the schema used for crowdfunding database
 
 References: 
 
@@ -28,5 +37,7 @@ Formatting and structure were referenced from in class work modules: 13-project-
 
 Used to assist in what to include in the README.md file: 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+https://www.quickdatabasediagrams.com/: used to generate visualization for schema used in code
 
 Acknowledgements: Edward Chac and Graham Marsh for collaborating and working through the coding together. Having different perspectives and challenging one another to improve the format of the code and results.
