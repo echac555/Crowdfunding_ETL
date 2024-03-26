@@ -38,6 +38,6 @@ Formatting and structure were referenced from in class work modules: 13-project-
 Used to assist in what to include in the README.md file: 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
-https://www.quickdatabasediagrams.com/: used to generate visualization for schema used in code
+Used QuickDBD to generate visualization for schema used in code: https://www.quickdatabasediagrams.com/
 
 Acknowledgements: Edward Chac and Graham Marsh for collaborating and working through the coding together. Having different perspectives and challenging one another to improve the format of the code and results.
