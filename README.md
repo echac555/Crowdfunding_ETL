@@ -11,9 +11,9 @@ Table of Contents:
 Resources:
 campiagn.xlsx: provided excel file used for coding
 contacts.xlsx: provided excel file used for coding
-campaign.csv: exported csv file contain data from campaign_cleaned dataframe
+campaign.csv: exported csv file contain data from campaign_cleaned DataFrame
 category.csv: exported csv file contain data from category_df
-contacts.csv: exported csv file contain data from contact_info
+contacts.csv: exported csv file contain data from contact_info DataFrame
 subcategory.csv: exported csv file contain data from subcategory_df
 
 ETL_Mini_Project_ECHACH_GMARSH.ipynb: Contains code for campaign.csv, category.csv, contacts.csv and subcategory.csv
